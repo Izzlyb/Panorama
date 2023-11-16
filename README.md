@@ -1,3 +1,8 @@
+#Panorama
+##An E-Commerce Digital Store
+
+Implementation of Header, Footer and Hero section of Panorama application. an E-Commerce Digital Store
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
