@@ -1,5 +1,5 @@
-#Panorama
-##An E-Commerce Digital Store
+<h1>Panorama
+<h2>An E-Commerce Digital Store
 
 Implementation of Header, Footer and Hero section of Panorama application. an E-Commerce Digital Store
 
